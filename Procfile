@@ -1,1 +1,1 @@
-web: java -jar target/music-me-1.0-SNAPSHOT.jar
+web: java -jar target/music-me-1.0-SNAPSHOT.jar -DServer.port=$PORT
